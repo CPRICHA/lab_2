@@ -1,5 +1,2 @@
-print("Initial commit on main")
-print("Feature branch commit")
-print("This a pull request")
-print("Another commit on main")
-print("Merging feature branch into main")   
+print("Hello, World!") 
+print("This is a sample Python application.") 
